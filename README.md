@@ -5,4 +5,4 @@ Steps on how to get shiba gold for free with .dll
 3. then press view raw :P
 4. put the file in your plugins folder (u need monke mod manager)
 5. launch your game and don't use it in publics
-buhbye
+6. say buhbye
