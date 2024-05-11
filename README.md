@@ -1,5 +1,5 @@
 # SHIBAGT-GOLD-MOD-MENU
-Steps on how to get the dll
+Steps on how to get shiba gold for free with .dll
 1. Go to main page
 2. Look above and click on SHIBAGoldV9.dll (it might not say .dll)
 3. then press raw :P
